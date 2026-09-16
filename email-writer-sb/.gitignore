@@ -1,0 +1,7 @@
+target/
+.idea/
+*.iml
+.env
+*.log
+application.properties
+src/main/resources/unstop.pdf
